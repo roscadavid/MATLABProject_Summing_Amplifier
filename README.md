@@ -1,4 +1,4 @@
-# MatlabProject_Summing_amplifier
+# MATLABProject Summing Amplifier
 This MATLAB project was developed within the Computer-Aided Graphics Laboratory and represents a complex simulation of the behavior of a summing amplifier. Through this project, we have created an interactive interface that offers users a wide range of options for exploring and understanding concepts related to summing amplifiers. The interface includes the following functionalities:
 
 Display Electrical Schematic: A special button allows users to visualize the electrical schematic of the summing amplifier, enabling them to study the connections and components involved in detail.
